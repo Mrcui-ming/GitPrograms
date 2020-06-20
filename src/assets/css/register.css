@@ -1,0 +1,34 @@
+#register{
+  height: 100vh;
+  width: 100vw;
+  background: url(../../assets/images/logo/BJ1.jpg) no-repeat;
+  background-size: 100% 110%;
+}
+.form{
+  margin: 110px auto 0;
+  padding: 25px 20px;
+  width: 280px;
+  border-radius: 20px;
+  background-color: #7777;
+}
+.programename{  
+  font-size: 30px;
+  color: #fff;
+  text-align: center;
+  transform: translateY(65px);
+}
+.login-form-button{
+  width: 200px;
+  margin-left: 10px;
+}
+.login{
+  transform: translate(10px,-10px);
+  background-color: #fff;
+  color: #000;
+}
+.errorprompt{
+  width: 100%;
+  color: red;
+  font-size: 16px;
+  text-align: center;
+}
